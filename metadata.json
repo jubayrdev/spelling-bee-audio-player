@@ -1,0 +1,5 @@
+{
+  "name": "Spelling Bee Audio Player",
+  "description": "An application to upload a .wav file of spelled-out words and play them segment by segment. It features controls to navigate, repeat, and auto-play a specific number of words or all of them.",
+  "requestFramePermissions": []
+}
